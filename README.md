@@ -1,7 +1,9 @@
 ### Hi there 👋 Sou Márcio Rodrigo
 
-- 🔭 Atuo no Back-end futuramente Fullstack...
-- 🌱 Aprofundando os estudos em Java, HTML, CSS, JPA, Maven, Hibernate, GIT, mysql.
+- 🔭 Atuo no Back-end como Estagiário em Desenvolvimento de Software em Java
+- 🔭 Formado em Análise e Desenvolvimento de Sistemas
+- 🌱 Desenvolvendo APIs em Java/Kotlin, utilizando as tecnologias : Springboot, Hibernate,
+JPA,Maven,JUnit,Mockito, Pitest, MySQL, PostgreSQL, GCP.
  <div>
   <a href="https://github.com/rodrigoCode-tech">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoCode-tech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
