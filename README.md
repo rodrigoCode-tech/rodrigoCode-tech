@@ -21,7 +21,7 @@ Por aqui, você encontrará alguns projetos focados no backend e frontend, usand
  <p> ° HTML </p>
  <p> ° Css </p>
  
- -Sobre Banco de dados:
+ - Sobre Banco de dados:
  <p> ° MySQL</p>
  <p> ° PostgreSQL</p>
  <p> ° MongoDB</p>
@@ -34,10 +34,10 @@ Por aqui, você encontrará alguns projetos focados no backend e frontend, usand
 <hr>
 
 Sobre os Design Patterns:
-<p>-Strategy</p>
-<p>-Factory</p>
-<p>-Singleton</p>
-<p>-Builder</p>
-<p>-Data Transfer Objects</p>
+<p> ° Strategy</p>
+<p> ° Factory</p>
+<p> ° Singleton</p>
+<p>-° Builder</p>
+<p> ° Data Transfer Objects</p>
 
 <hr>
