@@ -1,10 +1,11 @@
 
-<h2> Eae, meu nome é <a href="https://www.linkedin.com/in/rodrigobraga0125/"><i>Rodrigo Braga!</i></a></h2>
+<h2> Hi, my name is <a href="https://www.linkedin.com/in/rodrigobraga0125/"><i>Rodrigo Braga!</i></a></h2>
 
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,kotlin,javascript,aws,postgresql,mysql,docker,mongodb)](https://skillicons.dev)
 
-Por aqui, você encontrará alguns projetos focados no backend e frontend, usando as seguintes tecnologias:
+Here you will find some projects focused on the backend and frontend, using the following technologies:
+
 
  <p> ° Java</p> 
  <p> ° Spring Boot</p>
@@ -21,19 +22,19 @@ Por aqui, você encontrará alguns projetos focados no backend e frontend, usand
  <p> ° HTML </p>
  <p> ° Css </p>
  
- - Sobre Banco de dados:
+  Databases:
  <p> ° MySQL</p>
  <p> ° PostgreSQL</p>
  <p> ° MongoDB</p>
  
- - Computação em Nuvem:
+  Cloud Computing:
  <p> ° AWS (EC2)</p>
  <p> ° GCP </p>
  <p> ° Heroku</p>
 
 <hr>
 
-Sobre os Design Patterns:
+ Design Patterns:
 <p> ° Strategy</p>
 <p> ° Factory</p>
 <p> ° Singleton</p>
