@@ -1,18 +1,43 @@
-### Hi there 👋 Sou Márcio Rodrigo
 
-- 🔭 Atuo no Back-end como Estagiário em Desenvolvimento de Software em Java
-- 🔭 Formado em Análise e Desenvolvimento de Sistemas
-- 🌱 Desenvolvendo APIs em Java/Kotlin, utilizando as tecnologias : Springboot, Hibernate,
-JPA,Maven,JUnit,Mockito, Pitest, MySQL, PostgreSQL, GCP.
- <div>
-  <a href="https://github.com/rodrigoCode-tech">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoCode-tech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoCode-tech&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
+<h2> Eae, meu nome é <a href="https://www.linkedin.com/in/rodrigobraga0125/"><i>Rodrigo Braga!</i></a></h2>
+
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,kotlin,javascript,aws,postgresql,mysql,docker,mongodb)](https://skillicons.dev)
+
+Por aqui, você encontrará alguns projetos focados no backend e frontend, usando as seguintes tecnologias:
+
+ <p> ° Java</p> 
+ <p> ° Spring Boot</p>
+ <p> ° Spring Security</p>
+ <p> ° Microsservicos</p>
+ <p> ° Kotlin</p>
+ <p> ° Javascript</p>
+ <p> ° Docker</p>
+ <p> ° Hibernate</p>
+ <p> ° API Rest</p>
+ <p> ° Flyway</p>
+ <p> ° JUnit</p>
+ <p> ° JPA</p>
+ <p> ° HTML </p>
+ <p> ° Css </p>
+ 
+ -Sobre Banco de dados:
+ <p> ° MySQL</p>
+ <p> ° PostgreSQL</p>
+ <p> ° MongoDB</p>
+ 
+ - Computação em Nuvem:
+ <p> ° AWS (EC2)</p>
+ <p> ° GCP </p>
+ <p> ° Heroku</p>
+
+<hr>
+
+Sobre os Design Patterns:
+<p>-Strategy</p>
+<p>-Factory</p>
+<p>-Singleton</p>
+<p>-Builder</p>
+<p>-Data Transfer Objects</p>
+
+<hr>
